@@ -1,37 +1,60 @@
-## Welcome to GitHub Pages
+## Background
+### Masters of Science in Data Science - Bellevue University
+### Bachlors of Scince in Mathematics and Actuarial Science - University of Nebraska Lincoln
 
-You can use the [editor on GitHub](https://github.com/jcorbaley/jcorbaley.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## List of Projects
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Netflix Analysis 
 
-### Markdown
+Netflix has a dataset that has information about all the movies on the streaming app. There is a lot of useful information about movies within the dataset. The dataset has the following column names:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+• Show id – An id to represent a movie or tv show.
+• Title – The title of the movie or tv show.
+• Director – Who directed the piece.
+• Cast – Who was in the film or tv show.
+• Country – Which country the show or movie is in.
+• Date added – The date it was added to the Netflix.
+• Release year – The year the movie or show came out.
+• Rating – The rating of the movie or show (G, PG, PG-13, R, TV-14, TV-MA)
+• Duration – The length of the movie or how many seasons the tv show has.
+• Listed in – The categories the movie or tv show is listed in.
+• Description – A short description of the show or movie.
+• Type – Whether it’s a movie or tv show.
 
-```markdown
-Syntax highlighted code block
+The idea is to use all of this information to create a preditction on whether the incoming movie/tv show is a movie or if it is a tv show.
 
-# Header 1
-## Header 2
-### Header 3
+Link to project: https://github.com/jcorbaley/Netflix-Analysis
 
-- Bulleted
-- List
+# NFL Analysis
 
-1. Numbered
-2. List
+Every year there are 19 weeks where all day on Sunday, Monday night, and Thursday night 32 teams will battle to make it to the end of the year. This is the National Football League (NFL). Each of those weeks two teams play each other to see who can score more points. There is an offense and a defense on each team. The offense tries to move the football down the 100-yard field to score a touchdown worth 6 points. They have 4 downs, or tries, every 10 yards before they must give it to the other team. To do this they use a series of combinations of pass and run plays. While the offense attempts this the defense does their best to stop them. At the end of the game whoever has more points wins.
 
-**Bold** and _Italic_ and `Code` text
+No two games are the same and the performance of a team can vary week to week. One week a team can look like they are unbeatable, the next they could look like they have blindfolds on and can’t score at all. Therefore, many people tune into their televisions every week to watch their favorite team play. This makes the NFL a multi-billion-dollar business. If you have ever been to Las Vegas, Nevada or you happen to live in a state where sports betting is legal, then you know that you can place a wager on a game. Have you ever wondered what some of the wagers are? I am going to dive into all the past data on the over/under of the game to see if there are any relationships out there.
 
-[Link](url) and ![Image](src)
-```
+Link to project: https://github.com/jcorbaley/NFL-Analysis
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Weather App
 
-### Jekyll Themes
+This program will prompt the user to enter Yes or No on whether or not they would like to see what the weather is in a city or zip code. If you input y then the program will ask you to enter a city or zip code of your wish. If you enter a valid city or zip code then the program will display the current weather of the location. If you enter an invalid city or zip code you will be prompted to re-enter your location.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jcorbaley/jcorbaley.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# Extracting Data from Twitter
 
-### Support or Contact
+The code found in the link below can be used to pull tweets from users.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Link to project: https://github.com/jcorbaley/Extracting-Data-from-Twitter
+
+# Neural-Network-Classifier-with-Scikit-and-Keras
+
+Link to project: https://github.com/jcorbaley/Neural-Network-Classifier-with-Scikit-and-Keras
+
+# Analyzing-Positivity-of-Comments
+
+Link to project: https://github.com/jcorbaley/Analyzing-Positivity-of-Comments
+
+# PGA Tour Analysis
+
+Link to project: https://github.com/jcorbaley/PGA-Tour-Analysis
+
+# Stock Prices
+
+Link to project: https://github.com/jcorbaley/Stock-Prices
