@@ -68,8 +68,13 @@ Description to come later.
 
 Link to project: [PGA Tour Analysis](https://github.com/jcorbaley/PGA-Tour-Analysis)
 
-# Stock Prices
+## Stock Prices
 
 Description to come later.
 
 Link to project: [Stock Prices](https://github.com/jcorbaley/Stock-Prices)
+
+
+# Contact Info
+
+Email: jcorbaley@my365.bellevue.edu
