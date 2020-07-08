@@ -1,10 +1,13 @@
-## Background
+# Background
+
 
 ### Masters of Science in Data Science - Bellevue University
 
 ### Bachlors of Scince in Mathematics and Actuarial Science - University of Nebraska Lincoln
 
+
 # List of Projects
+
 
 ## Netflix Analysis 
 
