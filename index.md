@@ -28,7 +28,7 @@ Netflix has a dataset that has information about all the movies on the streaming
 
 The idea is to use all of this information to create a preditction on whether the incoming movie/tv show is a movie or if it is a tv show.
 
-Link to project: https://github.com/jcorbaley/Netflix-Analysis
+Link to project: [Netflix Analysis](https://github.com/jcorbaley/Netflix-Analysis)
 
 ## NFL Analysis
 
@@ -36,30 +36,40 @@ Every year there are 19 weeks where all day on Sunday, Monday night, and Thursda
 
 No two games are the same and the performance of a team can vary week to week. One week a team can look like they are unbeatable, the next they could look like they have blindfolds on and can’t score at all. Therefore, many people tune into their televisions every week to watch their favorite team play. This makes the NFL a multi-billion-dollar business. If you have ever been to Las Vegas, Nevada or you happen to live in a state where sports betting is legal, then you know that you can place a wager on a game. Have you ever wondered what some of the wagers are? I am going to dive into all the past data on the over/under of the game to see if there are any relationships out there.
 
-Link to project: https://github.com/jcorbaley/NFL-Analysis
+Link to project: [NFL Analysis](https://github.com/jcorbaley/NFL-Analysis)
 
 ## Weather App
 
 This program will prompt the user to enter Yes or No on whether or not they would like to see what the weather is in a city or zip code. If you input y then the program will ask you to enter a city or zip code of your wish. If you enter a valid city or zip code then the program will display the current weather of the location. If you enter an invalid city or zip code you will be prompted to re-enter your location.
 
+Link to project: [Weather App](https://github.com/jcorbaley/Weather-App)
+
 ## Extracting Data from Twitter
 
 The code found in the link below can be used to pull tweets from users.
 
-Link to project: https://github.com/jcorbaley/Extracting-Data-from-Twitter
+Link to project: [Extracting Data from Twitter](https://github.com/jcorbaley/Extracting-Data-from-Twitter)
 
 ## Neural-Network-Classifier-with-Scikit-and-Keras
 
-Link to project: https://github.com/jcorbaley/Neural-Network-Classifier-with-Scikit-and-Keras
+Description to come later.
+
+Link to project: [Neural-Network-Classifier-with-Scikit-and-Keras](https://github.com/jcorbaley/Neural-Network-Classifier-with-Scikit-and-Keras)
 
 ## Analyzing-Positivity-of-Comments
 
-Link to project: https://github.com/jcorbaley/Analyzing-Positivity-of-Comments
+Description to come later.
+
+Link to project: [Analyzing-Positivity-of-Comments](https://github.com/jcorbaley/Analyzing-Positivity-of-Comments)
 
 ## PGA Tour Analysis
 
-Link to project: https://github.com/jcorbaley/PGA-Tour-Analysis
+Description to come later.
+
+Link to project: [PGA Tour Analysis](https://github.com/jcorbaley/PGA-Tour-Analysis)
 
 # Stock Prices
 
-Link to project: https://github.com/jcorbaley/Stock-Prices
+Description to come later.
+
+Link to project: [Stock Prices](https://github.com/jcorbaley/Stock-Prices)
