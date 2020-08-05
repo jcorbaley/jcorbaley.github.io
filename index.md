@@ -52,28 +52,39 @@ Link to project: [Extracting Data from Twitter](https://github.com/jcorbaley/Ext
 
 ## Neural-Network-Classifier-with-Scikit-and-Keras
 
-Description to come later.
+Uses a multi-label classifier dataset to fit a neural network classifier using scikit-learn. This prrogram displays the accuracy, precision, recall, F1-score, and confusion matrix of the data. 
 
 Link to project: [Neural-Network-Classifier-with-Scikit-and-Keras](https://github.com/jcorbaley/Neural-Network-Classifier-with-Scikit-and-Keras)
 
 ## Analyzing-Positivity-of-Comments
 
-Description to come later.
+Takes a dataset to analyze comments within it. This program determines if positive/negative words are being used within the comments. Very useful for companies who want to analyze reviews or comments left on their products or services.
 
 Link to project: [Analyzing-Positivity-of-Comments](https://github.com/jcorbaley/Analyzing-Positivity-of-Comments)
 
 ## PGA Tour Analysis
 
-Description to come later.
+This is an analysis of PGA Tour players. The goal of this project is to look at data from the past Professional Golfers Association's (PGA) history to see if a higher fairway hit percentage relates to the amount of money made on the PGA tour. I also look at different things like driving accuracy, greens hit in regulation, and number of top 10s in a season.
 
 Link to project: [PGA Tour Analysis](https://github.com/jcorbaley/PGA-Tour-Analysis)
 
 ## Stock Prices
 
-Description to come later.
+This program scrapes websites for stock prices. Having the ability to scrape current stock prices can allow a user to make decisions quicker on whether or not to purchase a stock.
 
 Link to project: [Stock Prices](https://github.com/jcorbaley/Stock-Prices)
 
+## Netflix-Recommendation-Engine
+
+This is a recommendation engine created with a Netflix dataset. 
+
+Link to project: [Recommendation Engine](https://github.com/jcorbaley/Netflix-Recommendation-Engine)
+
+## Fake News Detection
+
+This is a program created to determine in a news article is fake or real.  
+
+Link to project: [News Detection](https://github.com/jcorbaley/Fake-News-Detection)
 
 # Contact Info
 
