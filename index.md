@@ -92,3 +92,7 @@ Link to project: [News Detection](https://github.com/jcorbaley/Fake-News-Detecti
 # Contact Info
 
 Email: jcorbaley@my365.bellevue.edu
+
+LinkedIn: [Profile](www.linkedin.com/in/jason-corbaley-439530110)
+
+
