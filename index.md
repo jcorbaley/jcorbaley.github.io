@@ -5,6 +5,9 @@
 
 ### Bachlors of Scince in Mathematics and Actuarial Science - University of Nebraska Lincoln
 
+## Current Work
+
+First National Bank of Omaha - Associate Developer
 
 # List of Projects
 
